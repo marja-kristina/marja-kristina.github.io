@@ -1,2 +1,2 @@
 # marja-kristina.github.io
-Portfolio Website
+permalink: /index.html
